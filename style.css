@@ -83,7 +83,7 @@ form {
    ================= */
 
 .intro {
-    background: #9480e4 url("/images/intro-bg.png");
+    background: #9480e4 url("intro-bg.png");
     background-size: cover;
     color: #fff;
     justify-content: space-between;
